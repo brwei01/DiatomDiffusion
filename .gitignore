@@ -35,6 +35,7 @@ models/
 checkpoints/
 tutorials/
 Dfinetune/
+mnist/
 
 # 日志/调试
 logs/
