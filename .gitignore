@@ -33,9 +33,15 @@ data/
 datasets/
 models/
 checkpoints/
+checkpoints_0707/
+checkpoints_0708/
+film_checkpoints/
 tutorials/
 Dfinetune/
 mnist/
+checkpoints*/
+*ckpts*/
+*outputs*/
 
 # 日志/调试
 logs/
@@ -44,6 +50,7 @@ logs/
 
 # slurm
 *.sbatch
+*.out
 
 # 缓存文件
 .mypy_cache/
